@@ -14,7 +14,7 @@ text-rendering: optimizeLegibility;
 }
 
 body {
-  background-color: #3c2a02;
+  background-color: #0e023c;
 }
 
   main {
@@ -58,7 +58,7 @@ overflow: hidden;
   gap: 12px;
   align-items: center;
 
-  background-color: #1e293b;
+  background-color: #973a04;
 }
 
 .quiz-item h3:before {
